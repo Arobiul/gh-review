@@ -20,7 +20,7 @@
     "github-api": "^0.11.2",
     "glob": "^5.0.15",
     "line-count": "^0.1.0",
-    "nodegit": "^0.6.0",
+    "nodegit": "^0.23.0",
     "underscore": "^1.8.3",
     "snyk": "^1.140.0"
   },
