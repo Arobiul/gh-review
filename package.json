@@ -22,7 +22,7 @@
     "line-count": "^0.1.0",
     "nodegit": "^0.6.0",
     "underscore": "^1.8.3",
-    "snyk": "^1.140.0"
+    "snyk": "^1.189.0"
   },
   "repository": {
     "type": "git",
